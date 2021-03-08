@@ -1,0 +1,43 @@
+header{background-color: white; text-align: right; 
+    height: 30%;
+    width: 100%;
+    margin: 0 auto;
+    padding-left: 30px;
+    padding-bottom: 30px;
+    padding-top: 30px;
+
+}
+button[type=about] {
+    background-color: rgb(38, 121, 245);
+    border: 1px solid rgb(14, 13, 13); 
+    color: white; 
+    font-size: 1em; 
+    padding: 3px; 
+    width: 8.5%;  
+}
+button[type=contact] {
+    background-color: rgb(38, 121, 245);
+    border: 1px solid rgb(14, 13, 13); 
+    color: white; 
+    font-size: 1em; 
+    padding: 3px; 
+    width: 8.5%;  
+}
+body{
+    background-color:rgb(18, 166, 211);   
+}
+form{ padding-top: 30px;
+height: 500px;
+width: 500px;
+margin: 0 auto;  
+background-color:white;
+ text-align: center;
+} 
+ button[type=submit] {
+    background-color: rgb(38, 121, 245);
+    border: 1px solid rgb(14, 13, 13); 
+    color: white; 
+    font-size: 1em; 
+    padding: 3px; 
+    width: 35%;  
+}
